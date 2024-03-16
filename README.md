@@ -7,7 +7,7 @@ This project aims to provide insights into the global COVID-19 situation by anal
 ## Questions Addressed
 
 ### Question 1:
-- What are the chances of dying if you contract COVID-19 in the UK? (Use TOP(1) for latest date only)
+- What are the chances of dying if you contact COVID-19 in the UK? (Use TOP(1) for latest date only)
 
 ### Question 2:
 - What percentage of the population got infected with COVID-19 by far in the UK? (Use TOP(1) for latest date only)
