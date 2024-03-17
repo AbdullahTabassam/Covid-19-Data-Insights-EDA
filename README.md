@@ -2,7 +2,7 @@
 
 # Project Introduction
 
-This project aims to provide insights into the global COVID-19 situation by analyzing historic data obtained from the World Health Organization (WHO) COVID database. Using Microsoft SQL Server, complex queries are executed to address key questions regarding COVID-19 trends and statistics.
+This project aims to provide insights into the global COVID-19 situation by analyzing historic data obtained from the World Health Organization (WHO) COVID database. Using Microsoft SQL Server, complex queries are executed to address key questions regarding COVID-19 trends and statistics. Additionally, Tableau is used to create a [dashboard]([link_to_live_dashboard](https://public.tableau.com/app/profile/abdullah.ikram.ullah.tabassam3014/viz/Covid-Stats-Mar-2024/Dashboard1)) to visualize some key insights, providing a comprehensive overview of the findings.
 
 ## Questions Addressed
 
@@ -26,6 +26,12 @@ This project aims to provide insights into the global COVID-19 situation by anal
 
 ### Question 7:
 - What percentage of people have been administered vaccines in the UK?
+
+## Tableau Dashboard
+
+A Tableau dashboard has been created to visually represent some of the key insights obtained from the analysis. You can view the live dashboard [here]([link_to_live_dashboard](https://public.tableau.com/app/profile/abdullah.ikram.ullah.tabassam3014/viz/Covid-Stats-Mar-2024/Dashboard1)).
+
+[![Tableau Dashboard](https://github.com/AbdullahTabassam/Covid-19-Data-Insights-EDA/blob/master/Covid%20Dashboard.jpg)](https://public.tableau.com/app/profile/abdullah.ikram.ullah.tabassam3014/viz/Covid-Stats-Mar-2024/Dashboard1)
 
 ## Reproducing the Results
 
